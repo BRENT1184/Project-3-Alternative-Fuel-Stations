@@ -1,1 +1,0 @@
-mongoimport --type json -d alt_fuel -c geo_stations --drop --jsonArray geo_alt_fuel_stations.json --maintainInsertionOrder
